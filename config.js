@@ -11,12 +11,13 @@ var config = {
         "GONNABEFINE",
         "I CANT TYPE",
         "MORE THAN 15",
-        "AT A TIME",
-        "R U SURE U DONT",
-        "WANT TO GO TO",
-        "DISNEY",
-        "LMFAO JK IGETIT",
-        "HAVE SM FUN",
+        "Letters",
+        "At a time",
+        "HAPPY U DAY",
+        "U LIVED THROUGH",
+        "5475 DAYS ALR",
+        "DONT DIE",
+        "BYE",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -28,8 +29,8 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "HAHAHHAHHAHA": "./imgs/IMG_8754.jpg",
-        "今天是你的生日": "./imgs/IMG_9219.jpg",
+        "Happy BIRTH": "./imgs/IMG_8754.jpg",
+        "15 GO DRIVE": "./imgs/IMG_9219.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
