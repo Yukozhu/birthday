@@ -34,15 +34,15 @@ var config = {
         "Happy BIRTH": "./imgs/IMG_8754.jpg",
         "15 GO DRIVE": "./imgs/IMG_9219.jpg",
         "WE NEED TO TAKE": "./imgs/IMG_8793.jpg",
-        "PHOTOS TOGETHER",: "./imgs/IMG_8598.jpg",
-        "IN JAPAN",: "./imgs/IMG_8597.jpg",
-        "I DONTHAVE MUCH",: "./imgs/IMG_8595.jpg",
-        "UR AP IS",: "./imgs/IMG_7946.jpg",
-        "GONNABEFINE",: "./imgs/IMG_7382.jpg",
-        "HAPPY U DAY",: "./imgs/IMG_8549.jpg",
-        "U LIVED THROUGH",: "./imgs/IMG_8093.jpg",
-        "5475 DAYS ALR",: "./imgs/IMG_7707.JPG",
-        "DONT DIE",: "./imgs/IMG_7516.jpg",
+        "PHOTOS TOGETHER": "./imgs/IMG_8598.jpg",
+        "IN JAPAN": "./imgs/IMG_8597.jpg",
+        "I DONTHAVE MUCH": "./imgs/IMG_8595.jpg",
+        "UR AP IS": "./imgs/IMG_7946.jpg",
+        "GONNABEFINE": "./imgs/IMG_7382.jpg",
+        "HAPPY U DAY": "./imgs/IMG_8549.jpg",
+        "U LIVED THROUGH": "./imgs/IMG_8093.jpg",
+        "5475 DAYS ALR": "./imgs/IMG_7707.JPG",
+        "DONT DIE": "./imgs/IMG_7516.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
@@ -52,7 +52,7 @@ var config = {
         balloons_flying: "Something Missing",
         cake_fadein: "Cake？",
         light_candle: "Candles？",
-        wish_message: "Weeeeee",
+        wish_message: "Weeee",
         story: "ClickMe",
     }
 };
